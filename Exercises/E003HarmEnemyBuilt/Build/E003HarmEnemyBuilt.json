@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "E003HarmEnemyBuilt.data.unityweb",
+"asmCodeUrl": "E003HarmEnemyBuilt.asm.code.unityweb",
+"asmMemoryUrl": "E003HarmEnemyBuilt.asm.memory.unityweb",
+"asmFrameworkUrl": "E003HarmEnemyBuilt.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

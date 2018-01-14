@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "E001FindAWayBuilt.data.unityweb",
+"asmCodeUrl": "E001FindAWayBuilt.asm.code.unityweb",
+"asmMemoryUrl": "E001FindAWayBuilt.asm.memory.unityweb",
+"asmFrameworkUrl": "E001FindAWayBuilt.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
